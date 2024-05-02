@@ -320,7 +320,7 @@ ui <- fluidPage(
       more interesting. I built this app as a fun way to explore how we learn
       and adapt our strategies when making decisions."
     ),
-    p(HTML("You can explore my work <a href='https://przemyslawmarcowski.com' target='_blank'>here</a>."))
+    p(HTML("You can explore my other work <a href='https://przemyslawmarcowski.com' target='_blank'>here</a>."))
   ),
 
   # Modal for game in progress
