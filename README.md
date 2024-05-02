@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # Two-armed bandit game with reinforcement learning analysis Shiny app
 
 This repository contains a Shiny application that implements a Two-Armed Bandit game, where players interact with a bandit, choosing between two arms that offer different reward potentials. The goal is to maximize the total score by deducing which arm currently offers the higher bonus. The game includes multiple rounds, allowing players to refine their strategies.
