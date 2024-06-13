@@ -233,7 +233,7 @@ bandit_image <- function(arm) {
 # UI ----------------------------------------------------------------------
 
 ui <- fluidPage(
-  title = "Two-Armed Bandit Game",
+  title = "Two-armed bandit game",
 
   # CSS styling for layout
   tags$head(
