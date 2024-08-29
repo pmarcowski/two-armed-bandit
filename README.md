@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![Preview](preview.png)
 
 # Two-armed bandit game with reinforcement learning analysis Shiny app
 
